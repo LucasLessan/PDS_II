@@ -6,6 +6,6 @@ Programas que escrevi para a disciplina de PDS II (**P**rogramação e **D**esen
   
   
   
-**English:**
+  **English:**
 
 Programs I wrote for the PDS II (Programming and Software Development, in english) course, 2018/2 semester. On the "Misc" folder are the less interesting or simpler programs. Even the ones on the root folder are not complex, however they can be of interest as simple classes and very rudimentary inheritance. There's no guarantee all of them work. They were written in a Windows environment. Most files are in portuguese.
